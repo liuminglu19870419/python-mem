@@ -1,0 +1,10 @@
+.*
+*.o
+*.class
+*.log
+*.err
+*.pyc
+*~
+!.project
+!.pydevproject
+!.gitignore
